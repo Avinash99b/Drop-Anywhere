@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Drop Here</string>
+    <string name="select_file">select file</string>
+    <string name="post_text">Post text</string>
+    <string name="post_file">Post File</string>
+    <string name="welcome_to_drop_here">Welcome to Drop Anywhere</string>
+    <string name="enter_or_paste_text_or_code_you_want_to_send">Enter or Paste Text or code you want to Send</string>
+</resources>
